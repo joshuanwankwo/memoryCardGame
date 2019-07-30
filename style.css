@@ -5,7 +5,7 @@
   }
   
 body{
-    background: linear-gradient(rgb(255, 255, 255, 0.7),rgb(255, 255, 255, 0.7),rgb(255, 255, 255, 0.5),rgb(255, 255, 255, 0.7)), url("../src/2_1_2x.png");
+    background: linear-gradient(rgb(255, 255, 255, 0.7),rgb(255, 255, 255, 0.7),rgb(255, 255, 255, 0.5),rgb(255, 255, 255, 0.7)), url("src/2_1_2x.png");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
